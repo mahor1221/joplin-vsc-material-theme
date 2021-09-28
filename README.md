@@ -1,3 +1,5 @@
+## I'm not maintaing this theme anymore. I don't know if it will work on newer versions of joplin. 
+
 ## VSCode [Community Material Theme](https://github.com/material-theme/vsc-material-theme) for Joplin
 It's not 100% identical and there are rooms for improvment. Mostly background colors are changed and everything else is Joplin's default UI and your system default font.
 
